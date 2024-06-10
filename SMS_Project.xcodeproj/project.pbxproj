@@ -68,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				047833F22C130686009B20BC /* ScreenSaver.swift */,
+				047833E42C1304CB009B20BC /* ContentView.swift */,
 				047833FC2C133612009B20BC /* EnterAppView.swift */,
 				04321FBF2C147C2800BC573C /* VereficationView.swift */,
 				04321FC12C147D8100BC573C /* SendNumberView.swift */,
@@ -124,9 +125,7 @@
 		047833E12C1304CB009B20BC /* SMS_Project */ = {
 			isa = PBXGroup;
 			children = (
-				047834002C13406C009B20BC /* Contries.json */,
 				047833E22C1304CB009B20BC /* SMS_ProjectApp.swift */,
-				047833E42C1304CB009B20BC /* ContentView.swift */,
 				047833E82C1304CD009B20BC /* Preview Content */,
 				04321FBB2C14724600BC573C /* Views */,
 				04321FD42C15B57400BC573C /* Model */,
@@ -141,6 +140,7 @@
 			children = (
 				047833E62C1304CD009B20BC /* Assets.xcassets */,
 				047833FA2C1331D0009B20BC /* CustomModifiers.swift */,
+				047834002C13406C009B20BC /* Contries.json */,
 				047833E92C1304CD009B20BC /* Preview Assets.xcassets */,
 				047833F82C132F0F009B20BC /* Appearance.swift */,
 			);
